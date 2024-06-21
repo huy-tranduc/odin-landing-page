@@ -11,3 +11,34 @@ body {
     min-height: 100vh;
 }
 
+.header {
+    padding: 32px 0;
+    /* background-color: #1f2937; */
+
+}
+
+.main-section {
+    flex: 5;
+}
+
+.information-section {
+    flex: 4.5;
+}
+
+.quote-section {
+    flex: 4;
+}
+
+.cta-section {
+    flex: 3.5;
+}
+
+.footer {
+    padding: 32px 0;
+    text-align: center;
+}
+
+
+.image-placeholder > img {
+    max-height: 250px;
+}
